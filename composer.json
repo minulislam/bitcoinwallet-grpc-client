@@ -1,0 +1,11 @@
+{
+  "name": "minulislam/bitcoinwallet-grpc-client",
+  "require": {
+    "lvht/grpc": "^1.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "."
+    }
+  }
+}
